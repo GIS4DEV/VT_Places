@@ -156,6 +156,59 @@
           44.72905238501763
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "Name": "Equinox Mountain Hiking Trail",
+        "Description": "Great 3 hour round trip hike with beautiful views of the valley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.08242797851562,
+          43.1623680096144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "Name": "Snake Mountain Trail Head",
+        "Description": "Classic Midd Kid hiking spot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.28593254089355,
+          44.0475605061751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "Name": "Mount Mansfield ",
+        "Description": "Highest mountain in VT with incredible scenery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.83118009567261,
+          44.53402261367704
+        ]
+      }
     }
+  ]
+}
 ]
 }
