@@ -37,6 +37,57 @@
           44.1272782929023
         ]
       }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "Name ": "Falls Of Lana Trail",
+        "Description": "Short hike to beautiful waterfalls "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.06260108947754,
+          43.90463339663943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "Name ": "Chipman Hill",
+        "Description ": "Easy running trail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.16284596920013,
+          44.02160565977288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "Name": "Amphitheater",
+        "Description": "Not on campus but a really cool spot to see!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1810474395752,
+          44.00516299694704
+        ]
+      }
     }
 ]
 }
