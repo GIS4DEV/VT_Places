@@ -37,6 +37,177 @@
           44.1272782929023
         ]
       }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "Name ": "Falls Of Lana Trail",
+        "Description": "Short hike to beautiful waterfalls "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.06260108947754,
+          43.90463339663943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "Name ": "Chipman Hill",
+        "Description ": "Easy running trail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.16284596920013,
+          44.02160565977288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "Name": "Amphitheater",
+        "Description": "Not on campus but a really cool spot to see!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1810474395752,
+          44.00516299694704
+        ]
+      }
+    },
+      {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "Name": "Skylight Pond Trailhead",
+        "Description": "2.3 mi hike to Skylight Pond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.96638488769531,
+          43.99250575515087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000a0",
+        "marker-size": "medium",
+        "marker-symbol": "park",
+        "Name": "Blueberry Hill",
+        "Description": "50km ungroomed cross country ski trails. Suggested donation $10 each."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.01060914993286,
+          43.89025372433138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "museum",
+        "Name": "Bread and Puppet",
+        "Description": "Puppet theater, political commentary, art, posters. Great to see their summer show! http://breadandpuppet.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1781587600708,
+          44.68414769359962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Name": "Parker Pie",
+        "Description": "Awesome pizza, and Hill Farmstead Brewery on tap!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.22744703292847,
+          44.72905238501763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "Name": "Equinox Mountain Hiking Trail",
+        "Description": "Great 3 hour round trip hike with beautiful views of the valley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.08242797851562,
+          43.1623680096144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "Name": "Snake Mountain Trail Head",
+        "Description": "Classic Midd Kid hiking spot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.28593254089355,
+          44.0475605061751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "Name": "Mount Mansfield ",
+        "Description": "Highest mountain in VT with incredible scenery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.83118009567261,
+          44.53402261367704
+        ]
+      }
     }
-]
+  ]
 }
+
