@@ -3,178 +3,127 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
                                                                                 
 "features": [
-{ "type": "Feature", "properties": { "Name": "Silver Lake", "Description": "Swim in the summer and snowshoe across in the winter", "marker-symbol": "swimming"}, "geometry": { "type": "Point", "coordinates": [ -73.053084362778634, 43.891059858801299] } },
-{
-      "type": "Feature",
-      "properties": {
+{"type": "Feature", "properties": { "Name": "Silver Lake", "Description": "Swim in the summer and snowshoe across in the winter", "marker-symbol": "swimming"}, "geometry": { "type": "Point", "coordinates": [ -73.053084362778634, 43.891059858801299] } },
+{"type": "Feature", 
+  "properties": {
         "marker-color": "#008000",
         "marker-size": "medium",
         "marker-symbol": "triangle-stroked",
         "Name": "Skylight Pond",
-        "Description": "Just awesome"
-      },
-      "geometry": {
+        "Description": "Just awesome" },
+  "geometry": {
         "type": "Point",
         "coordinates": [
           -72.93548583984375,
-          43.98651577773638
-        ]
-      }
-    },
-    {
-      "type": "Feature",
+          43.9865157777363]}},
+{"type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "swimming",
         "Name": "Bristol Falls",
-        "Description": "Great swimming hole with places to jump off rocks and climb behind a waterfall"
-      },
+        "Description": "Great swimming hole with places to jump off rocks and climb behind a waterfall" },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -73.04673850536346,
-          44.1272782929023
-        ]
-      }
-    },
-    {
-      "type": "Feature",
+          44.1272782929023        ]      }    },
+{"type": "Feature",
       "properties": {
         "marker-color": "#0080ff",
         "marker-size": "medium",
         "marker-symbol": "skiing",
         "Name": "Sugarbush Ski Resort: Lincoln Peak",
-        "Description": "Lincoln Peak is one of the two slopes affiliated with Sugarbush Resort. There are a large variety of trails and lifts for all ski and snowboard abilities!"
-      },
+        "Description": "Lincoln Peak is one of the two slopes affiliated with Sugarbush Resort. There are a large variety of trails and lifts for all ski and snowboard abilities!"},
       "geometry": {
         "type": "Point",
         "coordinates": [
           -72.89076805114746,
-          44.137192631805526
-        ]
-      }
-    },
-    {
-      "type": "Feature",
+          44.137192631805526       ]      }    },
+{"type": "Feature",
       "properties": {
         "marker-color": "#0080ff",
         "marker-size": "medium",
         "marker-symbol": "skiing",
         "Name": "Sugarbush Ski Resort: Mount Ellen",
-        "Description": "One of the two ski slopes in the Sugarbush Resort. A great variety of trails for all skill levels."
-      },
+        "Description": "One of the two ski slopes in the Sugarbush Resort. A great variety of trails for all skill levels." },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -72.89986610412598,
-          44.177895194309805
-        ]
-      }
-    }, 
-    {
-      "type": "Feature",
+          44.177895194309805        ]      }    }, 
+{"type": "Feature",
       "properties": {
         "marker-color": "#0080ff",
         "marker-size": "medium",
         "marker-symbol": "skiing",
-        "Name": "Middlebury College Snow Bowl"
-      },
+        "Name": "Middlebury College Snow Bowl"},
       "geometry": {
         "type": "Point",
         "coordinates": [
           -72.95827388763428,
-          43.939593975367174
-        ]
-      }
-    },
-    {
-      "type": "Feature",
+          43.939593975367174        ]      }    },
+{"type": "Feature",
       "properties": {
         "marker-color": "#0080ff",
         "marker-size": "medium",
         "marker-symbol": "skiing",
         "Name": "Mad River Glen",
-        "Description": "Home to one of the oldest chair lifts in the state, Mad River Glen is a smaller local ski slope with great, challenging trails. No snowboards allowed., however!"
-      },
+        "Description": "Home to one of the oldest chair lifts in the state, Mad River Glen is a smaller local ski slope with great, challenging trails. No snowboards allowed., however!"},
       "geometry": {
         "type": "Point",
         "coordinates": [
           -72.9178476333618,
-          44.20251245815855
-        ]
-      }
-    },
-    {
-      "type": "Feature",
+          44.20251245815855        ]      }    },
+{"type": "Feature",
       "properties": {
         "marker-color": "#8000ff",
         "marker-size": "medium",
         "marker-symbol": "ice-cream",
         "Name": "Ben & Jerry's",
-        "Description": "Iconic, creative ice cream parlor chain"
-      },
+        "Description": "Iconic, creative ice cream parlor chain"      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -72.74017810821533,
-          44.35293074154955
-        ]
-      }
-    },
-    {
-      "type": "Feature",
+          44.35293074154955        ]      }    },
+{"type": "Feature",
       "properties": {
         "marker-color": "#8000ff",
         "marker-size": "medium",
         "marker-symbol": "zoo",
         "Name": "ECHO Lake Aquarium and Science Center",
-        "Description": "Hands-on learning about Lake Champlain"
-      },
+        "Description": "Hands-on learning about Lake Champlain" },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -73.2211250066757,
-          44.47653574254873
-        ]
-      }
-    },
-        {
-      "type": "Feature",
+          44.47653574254873        ]      }    },
+{"type": "Feature",
       "properties": {
         "marker-color": "#8000ff",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "Name": "Lake Champlain Maritime Museum",
-        "Description": "Exhibits on local nautical history"
-      },
+        "Description": "Exhibits on local nautical history"},
       "geometry": {
         "type": "Point",
         "coordinates": [
           -73.35653901100159,
-          44.19723599806458
-        ]
-      }
-    },
-    {
-      "type": "Feature",
+          44.19723599806458        ]      }    },
+{"type": "Feature",
       "properties": {
         "marker-color": "#8000ff",
         "marker-size": "medium",
         "marker-symbol": "museum",
         "Name": "Shelburne Museum",
-        "Description": "Vast collection of folk & decorative art"
-      },
+        "Description": "Vast collection of folk & decorative art"},
       "geometry": {
         "type": "Point",
         "coordinates": [
           -73.23220252990723,
-          44.37331837172586
-        ]
-      }
-    },
-             {
-      "type": "Feature",
+          44.37331837172586        ]      }    },
+{"type": "Feature",
       "properties": {
         "marker-color": "#8000ff",
         "marker-size": "medium",
@@ -186,19 +135,14 @@
         "type": "Point",
         "coordinates": [
           -72.96902418136597,
-          43.59758018217704
-        ]
-      }
-    },
-    {
-      "type": "Feature",
+          43.59758018217704]      }    },
+{"type": "Feature",
       "properties": {
         "marker-color": "#8000ff",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "Name": "Cacklin' Hens",
-        "Description": "This is a knitting shop that has a wide selection of yarns and friendly, knowledgeable staff. A great place to explore your craftiness on a wintry day."
-      },
+        "Description": "This is a knitting shop that has a wide selection of yarns and friendly, knowledgeable staff. A great place to explore your craftiness on a wintry day."},
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -207,8 +151,7 @@
         ]
       }
     },
-    {
-      "type": "Feature",
+{"type": "Feature",
       "properties": {
         "marker-color": "#8000ff",
         "marker-size": "medium",
@@ -224,26 +167,11 @@
         ]
       }
     },
-    {
-"type": "Feature",
-"properties": {
-"marker-color": "#0080ff",
-"marker-size": "medium",
-"marker-symbol": "skiing",
-
-"Name": "Rikert Nordic Center",
-"Description": "Great cross country skiing through many miles of wooded trails."
-},
-"geometry": {
-"type": "Point",
-"coordinates": [
--72.99230575561523,
-43.95345196430687
-]
-}
-},
-    {
-      "type": "Feature",
+{"type": "Feature", "properties": {
+    "marker-color": "#0080ff", "marker-size": "medium", "marker-symbol": "skiing", 
+    "Name": "Rikert Nordic Center", "Description": "Great cross country skiing through many miles of wooded trails." },
+     "geometry": { "type": "Point", "coordinates": [ -72.99230575561523, 43.95345196430687 ]}},
+{"type": "Feature",
       "properties": {
         "marker-color": "#400080",
         "marker-size": "medium",
@@ -259,8 +187,7 @@
         ]
       }
     },
-    {
-      "type": "Feature",
+{"type": "Feature",
       "properties": {
         "marker-color": "#400080",
         "marker-size": "medium",
@@ -276,8 +203,7 @@
         ]
       }
     },
-    {
-      "type": "Feature",
+{"type": "Feature",
       "properties": {
         "marker-color": "FF8000",
         "marker-size": "medium",
@@ -293,8 +219,7 @@
         ]
       }
     },
-    {
-      "type": "Feature",
+{"type": "Feature",
       "properties": {
         "marker-color": "#400080",
         "marker-size": "medium",
@@ -310,8 +235,7 @@
         ]
       }
     },
-    {
-      "type": "Feature",
+{"type": "Feature",
       "properties": {
         "marker-color": "#400080",
         "marker-size": "medium",
@@ -496,6 +420,176 @@
         "coordinates": [
           -72.8357720375061,
           44.18408124899558
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "Name ": "Falls Of Lana Trail",
+        "Description": "Short hike to beautiful waterfalls "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.06260108947754,
+          43.90463339663943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "Name ": "Chipman Hill",
+        "Description ": "Easy running trail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.16284596920013,
+          44.02160565977288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "Name": "Amphitheater",
+        "Description": "Not on campus but a really cool spot to see!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1810474395752,
+          44.00516299694704
+        ]
+      }
+    },
+      {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "Name": "Skylight Pond Trailhead",
+        "Description": "2.3 mi hike to Skylight Pond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.96638488769531,
+          43.99250575515087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000a0",
+        "marker-size": "medium",
+        "marker-symbol": "park",
+        "Name": "Blueberry Hill",
+        "Description": "50km ungroomed cross country ski trails. Suggested donation $10 each."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.01060914993286,
+          43.89025372433138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "museum",
+        "Name": "Bread and Puppet",
+        "Description": "Puppet theater, political commentary, art, posters. Great to see their summer show! http://breadandpuppet.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1781587600708,
+          44.68414769359962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Name": "Parker Pie",
+        "Description": "Awesome pizza, and Hill Farmstead Brewery on tap!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.22744703292847,
+          44.72905238501763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "Name": "Equinox Mountain Hiking Trail",
+        "Description": "Great 3 hour round trip hike with beautiful views of the valley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.08242797851562,
+          43.1623680096144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "Name": "Snake Mountain Trail Head",
+        "Description": "Classic Midd Kid hiking spot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.28593254089355,
+          44.0475605061751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "Name": "Mount Mansfield ",
+        "Description": "Highest mountain in VT with incredible scenery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.83118009567261,
+          44.53402261367704
         ]
       }
     }
