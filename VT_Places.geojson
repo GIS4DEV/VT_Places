@@ -411,6 +411,192 @@
           44.378623
         ]
       }
-    }
-]
-}
+    },
+       {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#8000ff",
+        "marker-size": "medium",
+        "marker-symbol": "ice-cream",
+        "Name": "Ben & Jerry's",
+        "Description": "Iconic, creative ice cream parlor chain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.74017810821533,
+          44.35293074154955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#8000ff",
+        "marker-size": "medium",
+        "marker-symbol": "zoo",
+        "Name": "ECHO Lake Aquarium and Science Center",
+        "Description": "Hands-on learning about Lake Champlain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2211250066757,
+          44.47653574254873
+        ]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#8000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Name": "Lake Champlain Maritime Museum",
+        "Description": "Exhibits on local nautical history"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.35653901100159,
+          44.19723599806458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#8000ff",
+        "marker-size": "medium",
+        "marker-symbol": "museum",
+        "Name": "Shelburne Museum",
+        "Description": "Vast collection of folk & decorative art"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.23220252990723,
+          44.37331837172586
+        ]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "skiing",
+        "Name": "Sugarbush Ski Resort: Lincoln Peak",
+        "Description": "Lincoln Peak is one of the two slopes affiliated with Sugarbush Resort. There are a large variety of trails and lifts for all ski and snowboard abilities!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.89076805114746,
+          44.137192631805526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "skiing",
+        "Name": "Sugarbush Ski Resort: Mount Ellen",
+        "Description": "One of the two ski slopes in the Sugarbush Resort. A great variety of trails for all skill levels."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.89986610412598,
+          44.177895194309805
+        ]
+      }
+    }, 
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "skiing",
+        "Name": "Middlebury College Snow Bowl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.95827388763428,
+          43.939593975367174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "skiing",
+        "Name": "Mad River Glen",
+        "Description": "Home to one of the oldest chair lifts in the state, Mad River Glen is a smaller local ski slope with great, challenging trails. No snowboards allowed., however!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9178476333618,
+          44.20251245815855
+        ]
+      }
+    },
+             {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#8000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Name": "Rutland Bowlerama",
+        "Description": "This bowling alley is a great place to spend a few hours knocking down pins for only $3 per game and $1 for shoes (student rates in 2015). A wonderful activity for icky weather."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.96902418136597,
+          43.59758018217704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#8000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Name": "Cacklin' Hens",
+        "Description": "This is a knitting shop that has a wide selection of yarns and friendly, knowledgeable staff. A great place to explore your craftiness on a wintry day."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.17021131515503,
+          44.02338005282147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#8000ff",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "Name": "Middlebury Marquis",
+        "Description": "This small two-theater cinema house plays 2 or 3 movies at a time is walking distance from campus. A perfect date night location - but the food from the adjoined Mexican restaurant is not recommended.... Occasionaly the theater also hosts concerts."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.16905796527863,
+          44.012773407024774
+        ]
+      }
+    }    
+
+]}
