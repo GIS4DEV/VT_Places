@@ -37,6 +37,380 @@
           44.1272782929023
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "skiing",
+        "Name": "Sugarbush Ski Resort: Lincoln Peak",
+        "Description": "Lincoln Peak is one of the two slopes affiliated with Sugarbush Resort. There are a large variety of trails and lifts for all ski and snowboard abilities!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.89076805114746,
+          44.137192631805526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "skiing",
+        "Name": "Sugarbush Ski Resort: Mount Ellen",
+        "Description": "One of the two ski slopes in the Sugarbush Resort. A great variety of trails for all skill levels."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.89986610412598,
+          44.177895194309805
+        ]
+      }
+    }, 
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "skiing",
+        "Name": "Middlebury College Snow Bowl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.95827388763428,
+          43.939593975367174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "skiing",
+        "Name": "Mad River Glen",
+        "Description": "Home to one of the oldest chair lifts in the state, Mad River Glen is a smaller local ski slope with great, challenging trails. No snowboards allowed., however!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9178476333618,
+          44.20251245815855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#8000ff",
+        "marker-size": "medium",
+        "marker-symbol": "ice-cream",
+        "Name": "Ben & Jerry's",
+        "Description": "Iconic, creative ice cream parlor chain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.74017810821533,
+          44.35293074154955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#8000ff",
+        "marker-size": "medium",
+        "marker-symbol": "zoo",
+        "Name": "ECHO Lake Aquarium and Science Center",
+        "Description": "Hands-on learning about Lake Champlain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2211250066757,
+          44.47653574254873
+        ]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#8000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Name": "Lake Champlain Maritime Museum",
+        "Description": "Exhibits on local nautical history"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.35653901100159,
+          44.19723599806458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#8000ff",
+        "marker-size": "medium",
+        "marker-symbol": "museum",
+        "Name": "Shelburne Museum",
+        "Description": "Vast collection of folk & decorative art"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.23220252990723,
+          44.37331837172586
+        ]
+      }
+    },
+             {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#8000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Name": "Rutland Bowlerama",
+        "Description": "This bowling alley is a great place to spend a few hours knocking down pins for only $3 per game and $1 for shoes (student rates in 2015). A wonderful activity for icky weather."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.96902418136597,
+          43.59758018217704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#8000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Name": "Cacklin' Hens",
+        "Description": "This is a knitting shop that has a wide selection of yarns and friendly, knowledgeable staff. A great place to explore your craftiness on a wintry day."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.17021131515503,
+          44.02338005282147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#8000ff",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "Name": "Middlebury Marquis",
+        "Description": "This small two-theater cinema house plays 2 or 3 movies at a time is walking distance from campus. A perfect date night location - but the food from the adjoined Mexican restaurant is not recommended.... Occasionaly the theater also hosts concerts."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.16905796527863,
+          44.012773407024774
+        ]
+      }
+    },
+    {
+"type": "Feature",
+"properties": {
+"marker-color": "#0080ff",
+"marker-size": "medium",
+"marker-symbol": "skiing",
+
+"Name": "Rikert Nordic Center",
+"Description": "Great cross country skiing through many miles of wooded trails."
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-72.99230575561523,
+43.95345196430687
+]
+}
+},
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400080",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Name": "Whirlie's World",
+        "Description": "Great place to play laser tag with a few friends. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1692886352539,
+          44.02019382214874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400080",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Name": "Community Supper at the Congregational Church",
+        "Description": "A wonderful place to volunteer and eat dinner on Friday afternoons.  If you want to actually organize a dinner yourself (for 200-300 people!), you can get money from your Commons, the Service Cluster Board, and many other organizations on campus. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1692886352539,
+          44.02019382214874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "FF8000",
+        "marker-size": "medium",
+        "marker-symbol": "grocery",
+        "Name": "Trader Joe's",
+        "Description": "Right near the airport, with a great wine selection, plenty of healthy frozen food options, and fantastic fresh produce. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.180810,
+          44.464113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400080",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Name": "Champlain Lanes",
+        "Description": "A fun bowling alley in South Burlington."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.214304,
+          44.417166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400080",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Name": "Waterfront Divi",
+        "Description": "A fun bowling alley in South Burlington."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.214304,
+          44.417166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400080",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
+        "Name": "Flynn Theater",
+        "Description": "Some great concerts come through this awesome old theater every year--definitely worth checking it out!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.213193,
+          44.47587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400080",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
+        "Name": "Waterfront Diving Center",
+        "Description": "You can get your SCUBA certification here or go on dives on Lake Champlain."
+        },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.218278,
+          44.473496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400080",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
+        "Name": "Merrill's Roxy Cinema",
+        "Description": "A great movie theater on Church Street that shows all the alternative films that don't make it to Middlebury."
+        },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.210832,
+          44.477431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400080",
+        "marker-size": "medium",
+        "marker-symbol": "music",
+        "Name": "Higher Ground",
+        "Description": "Wonderful atmosphere and fairly inexpensive music in Burlington."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.175570, 
+          44.469069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "FF8000",
+        "marker-size": "medium",
+        "marker-symbol": "grocery",
+        "Name": "Shelburne Market",
+        "Description": "Wonderful local supermarket in Shelburne.  You can get a huge variety of yogurt, sliced deli meats, excellent baking chocolate, among other fresh food items."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.224072, 
+          44.378623
+        ]
+      }
     }
 ]
 }
